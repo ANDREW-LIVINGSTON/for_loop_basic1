@@ -7,7 +7,7 @@ for i in range(0,1005,5):
     print(i)
 
 # 3. counting the Dojo Way
-for i in range(0,101,1):
+for i in range(0,103,1):
     if i % 10 == 0:
         print("Coding Dojo")
     elif i % 5 == 0:
